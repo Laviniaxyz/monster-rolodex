@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Laviniaxyz/monster-rolodex.git/static/css/main.d3fa316b.chunk.css",
-    "main.js": "/Laviniaxyz/monster-rolodex.git/static/js/main.fb0ce910.chunk.js",
-    "main.js.map": "/Laviniaxyz/monster-rolodex.git/static/js/main.fb0ce910.chunk.js.map",
-    "runtime-main.js": "/Laviniaxyz/monster-rolodex.git/static/js/runtime-main.86811739.js",
-    "runtime-main.js.map": "/Laviniaxyz/monster-rolodex.git/static/js/runtime-main.86811739.js.map",
-    "static/js/2.b6f2604e.chunk.js": "/Laviniaxyz/monster-rolodex.git/static/js/2.b6f2604e.chunk.js",
-    "static/js/2.b6f2604e.chunk.js.map": "/Laviniaxyz/monster-rolodex.git/static/js/2.b6f2604e.chunk.js.map",
-    "index.html": "/Laviniaxyz/monster-rolodex.git/index.html",
-    "precache-manifest.8bc01b58a19bf4d5e81680a5809e8a83.js": "/Laviniaxyz/monster-rolodex.git/precache-manifest.8bc01b58a19bf4d5e81680a5809e8a83.js",
-    "service-worker.js": "/Laviniaxyz/monster-rolodex.git/service-worker.js",
-    "static/css/main.d3fa316b.chunk.css.map": "/Laviniaxyz/monster-rolodex.git/static/css/main.d3fa316b.chunk.css.map",
-    "static/js/2.b6f2604e.chunk.js.LICENSE.txt": "/Laviniaxyz/monster-rolodex.git/static/js/2.b6f2604e.chunk.js.LICENSE.txt"
+    "main.css": "/monster-rolodex.git/static/css/main.d3fa316b.chunk.css",
+    "main.js": "/monster-rolodex.git/static/js/main.6085f65c.chunk.js",
+    "main.js.map": "/monster-rolodex.git/static/js/main.6085f65c.chunk.js.map",
+    "runtime-main.js": "/monster-rolodex.git/static/js/runtime-main.6f3e37f9.js",
+    "runtime-main.js.map": "/monster-rolodex.git/static/js/runtime-main.6f3e37f9.js.map",
+    "static/js/2.b6f2604e.chunk.js": "/monster-rolodex.git/static/js/2.b6f2604e.chunk.js",
+    "static/js/2.b6f2604e.chunk.js.map": "/monster-rolodex.git/static/js/2.b6f2604e.chunk.js.map",
+    "index.html": "/monster-rolodex.git/index.html",
+    "precache-manifest.b1bf3c68835b37baec4c2c7fe1975779.js": "/monster-rolodex.git/precache-manifest.b1bf3c68835b37baec4c2c7fe1975779.js",
+    "service-worker.js": "/monster-rolodex.git/service-worker.js",
+    "static/css/main.d3fa316b.chunk.css.map": "/monster-rolodex.git/static/css/main.d3fa316b.chunk.css.map",
+    "static/js/2.b6f2604e.chunk.js.LICENSE.txt": "/monster-rolodex.git/static/js/2.b6f2604e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.86811739.js",
+    "static/js/runtime-main.6f3e37f9.js",
     "static/js/2.b6f2604e.chunk.js",
     "static/css/main.d3fa316b.chunk.css",
-    "static/js/main.fb0ce910.chunk.js"
+    "static/js/main.6085f65c.chunk.js"
   ]
 }
